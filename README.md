@@ -7,4 +7,4 @@ including a data processing algorithm for MIDI-files and a moving-window sampler
 For more details, read the full text.
 
 As the used pop music datasets are too large to upload on Github, they are not included here.
-If you do not feel like training one, contact the author for a download link.
+If you do not choose to process one with the given dataProcessing file, contact the author for a download link.
